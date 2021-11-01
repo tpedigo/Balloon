@@ -1,0 +1,22 @@
+.balloon {
+    font-family: sans-serif;
+    position: absolute;
+    top: 0; bottom: 0;
+    left: 0; right: 0;
+    font-size: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.explosion {
+    position: absolute;
+    top: 0; bottom: 0;
+    left: 0; right: 0;
+    font-size: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+    font-size: 700px;
+}

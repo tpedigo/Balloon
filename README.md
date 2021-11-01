@@ -1,0 +1,1 @@
+This program will make it so the user can "inflate" (enlarge) or "deflate" (shrink) a balloon emoji using their keyboard.  Once the balloon grows to a certain size, it will "explode" and be replaced with the explosion emoji.
